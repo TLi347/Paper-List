@@ -28,7 +28,7 @@ _Desc: Global & Local; QSTN_
 11. 3D Shape Generation and Completion through Point-Voxel Diffusion
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
 12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space
-[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)]
+[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)]  
 _Desc:_
 13. 3D Point Capsule Networks (CVPR20)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
