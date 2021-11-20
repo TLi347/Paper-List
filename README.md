@@ -32,7 +32,17 @@ _Desc: Global & Local; QSTN_
 _Desc:_
 13. 3D Point Capsule Networks (CVPR20)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
-14. 
+14. CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations (NeurIPS20)
+[[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[github](https://github.com/davrempe/caspr)]  
+_Desc: spacetime continuity; robustness; category-level generalization_
+<!-- First, we explicitly encode time by mapping an input point cloud sequence to a spatiotemporally-canonicalized object space. We then leverage this canonicalization to learn a spatiotemporal latent representation using neural ordinary differential equations and a generative model of dynamically evolving shapes using continuous normalizing flows. -->
+<!-- Yet, important limitations remain in terms of the lack of temporal continuity, robustness, and category-level generalization -->
+15. 
+
+## Dynamic 3D
+1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
+2. MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences(ICCV19)  [[paper](https://arxiv.org/abs/1910.09165)]
+3. Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics (ICCV19) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Niemeyer_Occupancy_Flow_4D_Reconstruction_by_Learning_Particle_Dynamics_ICCV_2019_paper.pdf)]
 
 ## Img Generation
 1. Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design 
