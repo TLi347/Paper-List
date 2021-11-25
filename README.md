@@ -18,12 +18,11 @@
 [[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[github](https://github.com/facebookresearch/votenet)] (_Desc: 3D detection; PointNet++;_)
 11. 3D Shape Generation and Completion through Point-Voxel Diffusion (NeurIPS21)
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
-12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space
+12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space (SIGAsia20)
 [[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)] (_Desc:_)
 13. 3D Point Capsule Networks (CVPR20)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
-15. Conditional Point Diffusion-Refinement
-[[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)]
+15. Conditional Point Diffusion-Refinement [[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)]
 16. 
 
 ## Dynamic Point Cloud
@@ -41,13 +40,9 @@
 ## General Method
 1. Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design 
  [[Paper](https://github.com/aravindsrinivas/flowpp)][[github](https://github.com/aravindsrinivas/flowpp)] (_Desc: Density?_)
-2. Denoising Diffusion Probabilistic Models (DDPM)
- [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[github](https://github.com/hojonathanho/diffusion)]
-3. Guided DDPM
-[[paper](https://arxiv.org/pdf/2102.09672.pdf)] [[github](https://github.com/openai/improved-diffusion)]  
-_Desc: Domain transfer_
-4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github]()]
-<!-- TBC -->
+2. Denoising Diffusion Probabilistic Models (DDPM) [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[github](https://github.com/hojonathanho/diffusion)]
+3. Guided DDPM [[paper](https://arxiv.org/pdf/2102.09672.pdf)] [[github](https://github.com/openai/improved-diffusion)]
+4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github]()] <!-- TBC -->
 5. etc
 6. 
 
