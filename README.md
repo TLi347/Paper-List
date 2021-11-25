@@ -19,8 +19,7 @@
 11. 3D Shape Generation and Completion through Point-Voxel Diffusion (NeurIPS21)
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
 12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space
-[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)]  
-_Desc:_
+[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)] (_Desc:_)
 13. 3D Point Capsule Networks (CVPR20)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
 15. Conditional Point Diffusion-Refinement
@@ -32,8 +31,7 @@ _Desc:_
 2. MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences(ICCV19)  [[paper](https://arxiv.org/abs/1910.09165)]
 3. Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics (ICCV19) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Niemeyer_Occupancy_Flow_4D_Reconstruction_by_Learning_Particle_Dynamics_ICCV_2019_paper.pdf)]
 4. CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations (NeurIPS20)
-[[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[github](https://github.com/davrempe/caspr)]  
-_Desc: spacetime continuity; robustness; category-level generalization;  spatiotemporal(ST) changes;_
+[[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[github](https://github.com/davrempe/caspr)] (_Desc: spacetime continuity; robustness; category-level generalization;  spatiotemporal(ST) changes;_)
 <!-- First, we explicitly encode time by mapping an input point cloud sequence to a spatiotemporally-canonicalized object space. We then leverage this canonicalization to learn a spatiotemporal latent representation using neural ordinary differential equations and a generative model of dynamically evolving shapes using continuous normalizing flows. -->
 <!-- Yet, important limitations remain in terms of the lack of temporal continuity, robustness, and category-level generalization -->
 5. dada
@@ -42,8 +40,7 @@ _Desc: spacetime continuity; robustness; category-level generalization;  spatiot
 
 ## General Method
 1. Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design 
- [[Paper](https://github.com/aravindsrinivas/flowpp)][[github](https://github.com/aravindsrinivas/flowpp)]  
- _Desc: Density?_
+ [[Paper](https://github.com/aravindsrinivas/flowpp)][[github](https://github.com/aravindsrinivas/flowpp)] (_Desc: Density?_)
 2. Denoising Diffusion Probabilistic Models (DDPM)
  [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[github](https://github.com/hojonathanho/diffusion)]
 3. Guided DDPM
@@ -58,7 +55,7 @@ _Desc: Domain transfer_
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
 2. Point2Mesh: A Self-Prior for Deformable Meshes (SIGGRAPH20) [[paper](https://arxiv.org/pdf/2005.11084.pdf)]
 3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[github](https://github.com/autonomousvision/shape_as_points)]
-4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates
+4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[paper](https://arxiv.org/pdf/2102.09105.pdf)] (_Desc:_)
 
 
 ## Algorithm & Datasets & Tools
