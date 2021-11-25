@@ -21,12 +21,10 @@ _Desc: Global & Local; QSTN_
  _Desc: normal opt_
 8. DSG-Net: Learning Disentangled Structure and Geometry for 3D Shape Generation [[paper](https://arxiv.org/pdf/2008.05440.pdf)] [[]()]
 9. Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction from Raw Point Clouds (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.pdf)]
- 
-9. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates
-10. Deep Hough Voting for 3D Object Detection in Point Clouds
+10. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV19)
  [[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[github](https://github.com/facebookresearch/votenet)]  
  _Desc: 3D detection; PointNet++;_
-11. 3D Shape Generation and Completion through Point-Voxel Diffusion
+11. 3D Shape Generation and Completion through Point-Voxel Diffusion (NeurIPS21)
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
 12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space
 [[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)]  
@@ -61,7 +59,14 @@ _Desc: spacetime continuity; robustness; category-level generalization;  spatiot
 _Desc: Domain transfer_
 4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github]()]
 <!-- TBC -->
-5. 
+5. etc
+6. 
+
+## Mesh Related
+1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
+2. Point2Mesh: A Self-Prior for Deformable Meshes (SIGGRAPH20) [[paper](https://arxiv.org/pdf/2005.11084.pdf)]
+3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[github](https://github.com/autonomousvision/shape_as_points)]
+4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates
 
 
 ## Algorithm & Datasets & Tools
