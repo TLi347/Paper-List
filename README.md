@@ -1,7 +1,7 @@
 # Paper List
 ## Point Cloud Generation
 1. Points2Surf: Learning Implicit Surfaces from Point Clouds (ECCV20)
- [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[github](https://github.com/ErlerPhilipp/points2surf)] **_Desc: Global & Local; QSTN_**
+ [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[github](https://github.com/ErlerPhilipp/points2surf)] _Desc: Global & Local; QSTN_
 2. Score-Based Point Cloud Denoising (ICCV21)
  [[paper](https://arxiv.org/pdf/2107.10981.pdf)][[github](https://github.com/luost26/score-denoise)]  
 3. Learning Gradient Fields for Shape Generation
