@@ -1,28 +1,21 @@
 # Paper List
 ## Point Cloud Generation
 1. Points2Surf: Learning Implicit Surfaces from Point Clouds (ECCV20)
- [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[github](https://github.com/ErlerPhilipp/points2surf)] _Desc: Global & Local; QSTN_
+ [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[github](https://github.com/ErlerPhilipp/points2surf)] (_Desc: Global & Local; QSTN_)
 2. Score-Based Point Cloud Denoising (ICCV21)
  [[paper](https://arxiv.org/pdf/2107.10981.pdf)][[github](https://github.com/luost26/score-denoise)]  
 3. Learning Gradient Fields for Shape Generation
  [[paper](https://arxiv.org/pdf/2008.06520.pdf)]
 4. PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows (ICCV19)
- [[paper](https://github.com/stevenygd/PointFlow)]  
- _Desc: ODE_
+ [[paper](https://github.com/stevenygd/PointFlow)]  (_Desc: ODE_)
 5. Variational Relational Point Completion Network (CVPR21)
- [[paper](https://paul007pl.github.io/projects/VRCNet)][[github](https://paul007pl.github.io/projects/VRCNet)]   
- _Desc: dual-path architecture; Relational Enhancement; MVP dataset_
-6. ChartPointFlow for Topology-Aware 3D Point Cloud Generation (MM21)
- [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475589)]  
- _Desc: part-edit_
-7. Orienting Point Clouds with Dipole Propagation (SIG21)
- [[paper](https://cims.nyu.edu/gcl/papers/2021-Dipole.pdf)]
- _Desc: normal opt_
+ [[paper](https://paul007pl.github.io/projects/VRCNet)][[github](https://paul007pl.github.io/projects/VRCNet)] (_Desc: dual-path architecture; Relational Enhancement; MVP dataset_)
+6. ChartPointFlow for Topology-Aware 3D Point Cloud Generation (MM21) [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475589)] (_Desc: part-edit_)
+7. Orienting Point Clouds with Dipole Propagation (SIGGRAPH21) [[paper](https://cims.nyu.edu/gcl/papers/2021-Dipole.pdf)] (_Desc: normal opt_)
 8. DSG-Net: Learning Disentangled Structure and Geometry for 3D Shape Generation [[paper](https://arxiv.org/pdf/2008.05440.pdf)] [[]()]
 9. Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction from Raw Point Clouds (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.pdf)]
-10. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV19)
- [[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[github](https://github.com/facebookresearch/votenet)]  
- _Desc: 3D detection; PointNet++;_
+10. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV19) 
+[[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[github](https://github.com/facebookresearch/votenet)] (_Desc: 3D detection; PointNet++;_)
 11. 3D Shape Generation and Completion through Point-Voxel Diffusion (NeurIPS21)
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
 12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space
