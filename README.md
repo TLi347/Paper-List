@@ -52,6 +52,7 @@
 3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[github](https://github.com/autonomousvision/shape_as_points)]
 4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[paper](https://arxiv.org/pdf/2102.09105.pdf)] (_Desc:_)
 5. Deep Geometric Prior for Surface Reconstruction (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Williams_Deep_Geometric_Prior_for_Surface_Reconstruction_CVPR_2019_paper.pdf)]
+6. Meshlet Priors for 3D Mesh Reconstruction [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Badki_Meshlet_Priors_for_3D_Mesh_Reconstruction_CVPR_2020_paper.pdf)] [no code]
 
 
 ## Algorithm & Datasets & Tools
