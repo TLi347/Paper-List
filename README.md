@@ -43,7 +43,7 @@
 2. Denoising Diffusion Probabilistic Models (DDPM) [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[github](https://github.com/hojonathanho/diffusion)]
 3. Guided DDPM [[paper](https://arxiv.org/pdf/2102.09672.pdf)] [[github](https://github.com/openai/improved-diffusion)]
 4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github]()] <!-- TBC -->
-5. etc
+5. PatchVAE: Learning Local Latent Codes for Recognition (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)]
 6. 
 
 ## Mesh Related
@@ -51,6 +51,7 @@
 2. Point2Mesh: A Self-Prior for Deformable Meshes (SIGGRAPH20) [[paper](https://arxiv.org/pdf/2005.11084.pdf)]
 3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[github](https://github.com/autonomousvision/shape_as_points)]
 4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[paper](https://arxiv.org/pdf/2102.09105.pdf)] (_Desc:_)
+5. Deep Geometric Prior for Surface Reconstruction (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Williams_Deep_Geometric_Prior_for_Surface_Reconstruction_CVPR_2019_paper.pdf)]
 
 
 ## Algorithm & Datasets & Tools
