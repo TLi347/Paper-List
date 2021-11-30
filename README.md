@@ -45,6 +45,7 @@
 4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github]()] <!-- TBC -->
 5. PatchVAE: Learning Local Latent Codes for Recognition (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)]
 6. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[paper](https://openreview.net/pdf?id=CzceR82CYc)][[review](https://openreview.net/forum?id=CzceR82CYc)]
+7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[no code]()]
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
