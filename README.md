@@ -22,7 +22,7 @@
 [[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)] (_Desc:_)
 13. 3D Point Capsule Networks (CVPR20)
 [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
-15. Conditional Point Diffusion-Refinement [[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)]
+15. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)]
 16. 
 
 ## Dynamic Point Cloud
@@ -46,6 +46,7 @@
 5. PatchVAE: Learning Local Latent Codes for Recognition (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)]
 6. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[paper](https://openreview.net/pdf?id=CzceR82CYc)][[review](https://openreview.net/forum?id=CzceR82CYc)]
 7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[no code]()]
+8. Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS21) [[paper](https://arxiv.org/pdf/2101.09258.pdf)] 
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
