@@ -24,7 +24,8 @@
 15. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)] [[no code]()]
 16. SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_SCALE_Modeling_Clothed_Humans_with_a_Surface_Codec_of_Articulated_CVPR_2021_paper.pdf)] [[github](https://github.com/qianlim/SCALE)] [[Project](https://qianlim.github.io/SCALE)]
 17. (IF-Net) Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion (CVPR20) [[paper](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)] [[gihub](https://github.com/jchibane/if-net)]
-18. 
+18. MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement (ICCV21) [[paper](https://arxiv.org/pdf/2007.12944.pdf)] [[no code]()]
+19. 
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
