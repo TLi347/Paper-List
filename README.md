@@ -47,7 +47,7 @@
 4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github](https://github.com/facebookresearch/neural_stpp)] <!-- TBC -->
 5. PatchVAE: Learning Local Latent Codes for Recognition (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)]
 6. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[paper](https://openreview.net/pdf?id=CzceR82CYc)][[review](https://openreview.net/forum?id=CzceR82CYc)]
-7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[no code]()]
+7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[github](https://github.com/NVlabs/LSGM)]
 8. Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS21) [[paper](https://arxiv.org/pdf/2101.09258.pdf)] [[code](https://github.com/yang-song/score_flow)]
 9. A Connection Between Score Matching and Denoising Autoencoders[[paper](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)] <!-- 这是一个diffusion用的公式的地方 -->
 10. 
