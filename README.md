@@ -25,7 +25,7 @@
 16. SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_SCALE_Modeling_Clothed_Humans_with_a_Surface_Codec_of_Articulated_CVPR_2021_paper.pdf)] [[github](https://github.com/qianlim/SCALE)] [[Project](https://qianlim.github.io/SCALE)]
 17. (IF-Net) Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion (CVPR20) [[paper](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)] [[gihub](https://github.com/jchibane/if-net)]
 18. MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement (ICCV21) [[paper](https://arxiv.org/pdf/2007.12944.pdf)] [[no code]()]
-19. 
+19. (MSN) Morphing and Sampling Network for Dense Point Cloud Completion (AAAI20) [[paper](https://cseweb.ucsd.edu//~mil070/projects/AAAI2020/paper.pdf)] [[github](https://github.com/Colin97/MSN-Point-Cloud-Completion.git)]
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
