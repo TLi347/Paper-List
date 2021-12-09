@@ -52,7 +52,8 @@
 7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[github](https://github.com/NVlabs/LSGM)]
 8. Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS21) [[paper](https://arxiv.org/pdf/2101.09258.pdf)] [[code](https://github.com/yang-song/score_flow)]
 9. A Connection Between Score Matching and Denoising Autoencoders[[paper](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)] <!-- 这是一个diffusion用的公式的地方 -->
-10. 
+10. Label-Efficient Semantic Segmentation with Diffusion Models (ICLR22) [[paper](https://openreview.net/pdf?id=SlxSY2UZQT)] [[review](https://openreview.net/forum?id=SlxSY2UZQT)]
+11. 
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
@@ -63,7 +64,14 @@
 6. Meshlet Priors for 3D Mesh Reconstruction (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Badki_Meshlet_Priors_for_3D_Mesh_Reconstruction_CVPR_2020_paper.pdf)] [no code]
 7. Local Implicit Grid Representations for 3D Scenes (CVPR20) [[paper](https://arxiv.org/pdf/2003.08981.pdf)] [[github](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)]
 8. Neural Cages for Detail-Preserving 3D Deformations (CVPR20) [[github](https://igl.ethz.ch/projects/neural-cage/06035.pdf)] [[github](https://github.com/yifita/deep_cage)]
-9. 
+9. Generating 3d faces using convolutional mesh autoencoders (ECCV18) 
+<!-- graph network 3d reconstruction -->
+10. Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels [[paper](https://arxiv.org/pdf/2006.04325.pdf)] [[github](https://zhouyisjtu.github.io/project_vcmeshcnn/code.html)]
+11. 
+
+## SDF Generation
+1. 3D Shapes Local Geometry Codes Learning with SDF (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Yao_3D_Shapes_Local_Geometry_Codes_Learning_With_SDF_ICCVW_2021_paper.pdf)] [[github]]
+2. Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence (CVPR21) [[paper](https://arxiv.org/pdf/2011.13650.pdf)] [[github](https://github.com/microsoft/DIF-Net/tree/37cdee4aee0fbdb9f84b8063632e073b707ab595)]
 
 
 
@@ -79,3 +87,5 @@
 4. PC render
  [[link](https://github.com/zekunhao1995/PointFlowRenderer)] [[mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)]
 5. 伊藤公式和随机微分方程&鞅和随机微分方程[[link](http://www.360doc.com/content/17/0722/15/29081477_673313793.shtml)]
+6. 学习 CVPR 论文《一种交互式纹理迁移通用框架 》[[link](https://zhuanlan.zhihu.com/p/67697998)]
+7. 
