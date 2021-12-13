@@ -28,7 +28,9 @@
 19. (MSN) Morphing and Sampling Network for Dense Point Cloud Completion (AAAI20) [[paper](https://cseweb.ucsd.edu//~mil070/projects/AAAI2020/paper.pdf)] [[github](https://github.com/Colin97/MSN-Point-Cloud-Completion.git)]
 20. Voxel-based Network for Shape Completion by Leveraging Edge Generation (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)] [[github](https://github.com/xiaogangw/VE-PCN)]
 21. Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS21) [[paper](https://arxiv.org/pdf/2012.04718.pdf)] [(github)[https://github.com/canonical-capsules/canonical-capsules]]
-22. 
+22. CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating (AAAI21) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[github](https://github.com/SymenYang/CPCGAN.git)]
+23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[github](https://github.com/seowok/TreeGAN)]
+24. 
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
