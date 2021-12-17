@@ -29,8 +29,11 @@
 20. Voxel-based Network for Shape Completion by Leveraging Edge Generation (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)] [[github](https://github.com/xiaogangw/VE-PCN)]
 21. Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS21) [[paper](https://arxiv.org/pdf/2012.04718.pdf)] [(github)[https://github.com/canonical-capsules/canonical-capsules]]
 22. CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating (AAAI21) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[github](https://github.com/SymenYang/CPCGAN.git)]
-23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[github](https://github.com/seowok/TreeGAN)]
-24. 
+<!-- 第一阶段GAN以随机潜码为输入，生成带有语义标签的稀疏点云，称为结构点云。
+第二阶段GAN以第一阶段的输出作为输入，通过在每个结构点上繁殖一定数量的点来生成完整的点云。结构点的语义标签将被衍生点继承。一些简单的完全连接层和一个自我关注层用于构建生成器。 -->
+23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[github](https://github.com/seowok/TreeGAN)] 
+24. RPG: Learning Recursive Point Cloud Generation 
+25. 
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
@@ -56,7 +59,8 @@
 8. Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS21) [[paper](https://arxiv.org/pdf/2101.09258.pdf)] [[code](https://github.com/yang-song/score_flow)]
 9. A Connection Between Score Matching and Denoising Autoencoders[[paper](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)] <!-- 这是一个diffusion用的公式的地方 -->
 10. Label-Efficient Semantic Segmentation with Diffusion Models (ICLR22) [[paper](https://openreview.net/pdf?id=SlxSY2UZQT)] [[review](https://openreview.net/forum?id=SlxSY2UZQT)]
-11. 
+11. PatchVAE: Learning Local Latent Codes for Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)] [[github](https://github.com/kampta/PatchVAE)]
+12. 
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
