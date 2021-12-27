@@ -95,4 +95,4 @@
  [[link](https://github.com/zekunhao1995/PointFlowRenderer)] [[mitsuba2](https://github.com/mitsuba-renderer/mitsuba2)]
 5. 伊藤公式和随机微分方程&鞅和随机微分方程[[link](http://www.360doc.com/content/17/0722/15/29081477_673313793.shtml)]
 6. 学习 CVPR 论文《一种交互式纹理迁移通用框架 》[[link](https://zhuanlan.zhihu.com/p/67697998)]
-7. 
+7. Point Cloud Visulization [[link](https://github.com/AnTao97/dgcnn.pytorch/blob/master/README_zh.md)]
