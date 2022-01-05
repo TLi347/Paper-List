@@ -60,7 +60,8 @@
 9. A Connection Between Score Matching and Denoising Autoencoders[[paper](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)] <!-- 这是一个diffusion用的公式的地方 -->
 10. Label-Efficient Semantic Segmentation with Diffusion Models (ICLR22) [[paper](https://openreview.net/pdf?id=SlxSY2UZQT)] [[review](https://openreview.net/forum?id=SlxSY2UZQT)]
 11. PatchVAE: Learning Local Latent Codes for Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)] [[github](https://github.com/kampta/PatchVAE)]
-12. 
+12. CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [[paper](https://arxiv.org/pdf/2107.03502.pdf)] [[github](https://github.com/ermongroup/CSDI)]
+13. 
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
