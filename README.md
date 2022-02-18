@@ -33,7 +33,8 @@
 第二阶段GAN以第一阶段的输出作为输入，通过在每个结构点上繁殖一定数量的点来生成完整的点云。结构点的语义标签将被衍生点继承。一些简单的完全连接层和一个自我关注层用于构建生成器。 -->
 23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[github](https://github.com/seowok/TreeGAN)] 
 24. RPG: Learning Recursive Point Cloud Generation 
-25. 
+25. Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions (ECCV20) [[paper](https://arxiv.org/pdf/2003.13834.pdf)] [[github](https://github.com/matheusgadelha/PointCloudLearningACD)]
+26. Representing Shape Collections With Alignment-Aware Linear Models (3DV2021) [[paper](https://arxiv.org/pdf/2109.01605.pdf)] [[github](https://romainloiseau.github.io/deep-linear-shapes)]
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
