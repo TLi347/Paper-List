@@ -35,6 +35,8 @@
 24. RPG: Learning Recursive Point Cloud Generation 
 25. Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions (ECCV20) [[paper](https://arxiv.org/pdf/2003.13834.pdf)] [[github](https://github.com/matheusgadelha/PointCloudLearningACD)]
 26. Representing Shape Collections With Alignment-Aware Linear Models (3DV2021) [[paper](https://arxiv.org/pdf/2109.01605.pdf)] [[github](https://romainloiseau.github.io/deep-linear-shapes)]
+27. Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS21) [[paper](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf)] [[code](https://github.com/canonical-capsules/canonical-capsules)]
+28. Autoregressive 3D Shape Generation via Canonical Mapping [[paper](https://arxiv.org/pdf/2204.01955.pdf)]
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
@@ -44,8 +46,7 @@
 [[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[github](https://github.com/davrempe/caspr)] (_Desc: spacetime continuity; robustness; category-level generalization;  spatiotemporal(ST) changes;_)
 <!-- First, we explicitly encode time by mapping an input point cloud sequence to a spatiotemporally-canonicalized object space. We then leverage this canonicalization to learn a spatiotemporal latent representation using neural ordinary differential equations and a generative model of dynamically evolving shapes using continuous normalizing flows. -->
 <!-- Yet, important limitations remain in terms of the lack of temporal continuity, robustness, and category-level generalization -->
-5. dada
-6.  
+
 
 
 ## General Method
@@ -81,8 +82,7 @@
 ## SDF Generation
 1. 3D Shapes Local Geometry Codes Learning with SDF (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Yao_3D_Shapes_Local_Geometry_Codes_Learning_With_SDF_ICCVW_2021_paper.pdf)] [[github]]
 2. Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence (CVPR21) [[paper](https://arxiv.org/pdf/2011.13650.pdf)] [[github](https://github.com/microsoft/DIF-Net/tree/37cdee4aee0fbdb9f84b8063632e073b707ab595)]
-
-
+3. Learning Implicit Fields for Generative Shape Modeling (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Implicit_Fields_for_Generative_Shape_Modeling_CVPR_2019_paper.pdf)] [[]]
 
 
 
