@@ -1,49 +1,51 @@
-# Paper List
+# Awsome Paper List
 ## Point Cloud Generation & Reconstruction
 1. Points2Surf: Learning Implicit Surfaces from Point Clouds (ECCV20)
- [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[github](https://github.com/ErlerPhilipp/points2surf)] (_Desc: Global & Local; QSTN_)
+ [[Paper](https://arxiv.org/pdf/2007.10453.pdf)][[code](https://github.com/ErlerPhilipp/points2surf)] (_Desc: Global & Local; QSTN_)
 2. Score-Based Point Cloud Denoising (ICCV21)
- [[paper](https://arxiv.org/pdf/2107.10981.pdf)][[github](https://github.com/luost26/score-denoise)]  
+ [[paper](https://arxiv.org/pdf/2107.10981.pdf)][[code](https://github.com/luost26/score-denoise)]  
 3. Learning Gradient Fields for Shape Generation
  [[paper](https://arxiv.org/pdf/2008.06520.pdf)]
 4. PointFlow : 3D Point Cloud Generation with Continuous Normalizing Flows (ICCV19) [[paper](https://github.com/stevenygd/PointFlow)]
 5. (VRCNet) Variational Relational Point Completion Network (CVPR21)
- [[paper](https://paul007pl.github.io/projects/VRCNet)][[github](https://paul007pl.github.io/projects/VRCNet)] (_Desc: dual-path architecture; Relational Enhancement; MVP dataset_)
+ [[paper](https://paul007pl.github.io/projects/VRCNet)][[code](https://paul007pl.github.io/projects/VRCNet)] (_Desc: dual-path architecture; Relational Enhancement; MVP dataset_)
 6. ChartPointFlow for Topology-Aware 3D Point Cloud Generation (MM21) [[paper](https://dl.acm.org/doi/pdf/10.1145/3474085.3475589)] (_Desc: part-edit_)
 7. Orienting Point Clouds with Dipole Propagation (SIGGRAPH21) [[paper](https://cims.nyu.edu/gcl/papers/2021-Dipole.pdf)] (_Desc: normal opt_)
 8. DSG-Net: Learning Disentangled Structure and Geometry for 3D Shape Generation [[paper](https://arxiv.org/pdf/2008.05440.pdf)] [[]()]
 9. (SAIL-S3) Sign-Agnostic Implicit Learning of Surface Self-Similarities for Shape Modeling and Reconstruction from Raw Point Clouds (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Sign-Agnostic_Implicit_Learning_of_Surface_Self-Similarities_for_Shape_Modeling_and_CVPR_2021_paper.pdf)]
 10. Deep Hough Voting for 3D Object Detection in Point Clouds (ICCV19) 
-[[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[github](https://github.com/facebookresearch/votenet)] (_Desc: 3D detection; PointNet++;_)
+[[paper](https://arxiv.org/pdf/1904.09664.pdf)] [[code](https://github.com/facebookresearch/votenet)] (_Desc: 3D detection; PointNet++;_)
 11. (P2V) 3D Shape Generation and Completion through Point-Voxel Diffusion (NeurIPS21)
  [[paper](https://arxiv.org/pdf/2104.03670.pdf)]
 12. LOGAN: Unpaired Shape Transform in Latent Overcomplete Space (SIGAsia20)
-[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[github](https://github.com/kangxue/LOGAN)] (_Desc:_)
+[[paper](https://arxiv.org/pdf/1903.10170.pdf)][[code](https://github.com/kangxue/LOGAN)] (_Desc:_)
 13. 3D Point Capsule Networks (CVPR20)
-[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[github](https://github.com/yongheng1991/3D-point-capsule-networks)]
+[[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhao_3D_Point_Capsule_Networks_CVPR_2019_paper.pdf)] [[code](https://github.com/yongheng1991/3D-point-capsule-networks)]
 15. A Conditional Point Diffusion-Refinement Paradigm for 3D Point Cloud Completion [[paper](https://openreview.net/pdf?id=wqD6TfbYkrn)] [[no code]()]
-16. SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_SCALE_Modeling_Clothed_Humans_with_a_Surface_Codec_of_Articulated_CVPR_2021_paper.pdf)] [[github](https://github.com/qianlim/SCALE)] [[Project](https://qianlim.github.io/SCALE)]
+16. SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Ma_SCALE_Modeling_Clothed_Humans_with_a_Surface_Codec_of_Articulated_CVPR_2021_paper.pdf)] [[code](https://github.com/qianlim/SCALE)] [[Project](https://qianlim.github.io/SCALE)]
 17. (IF-Net) Implicit Functions in Feature Space for 3D Shape Reconstruction and Completion (CVPR20) [[paper](https://virtualhumans.mpi-inf.mpg.de/papers/chibane20ifnet/chibane20ifnet.pdf)] [[gihub](https://github.com/jchibane/if-net)]
 18. MRGAN: Multi-Rooted 3D Shape Generation with Unsupervised Part Disentanglement (ICCV21) [[paper](https://arxiv.org/pdf/2007.12944.pdf)] [[no code]()]
-19. (MSN) Morphing and Sampling Network for Dense Point Cloud Completion (AAAI20) [[paper](https://cseweb.ucsd.edu//~mil070/projects/AAAI2020/paper.pdf)] [[github](https://github.com/Colin97/MSN-Point-Cloud-Completion.git)]
-20. Voxel-based Network for Shape Completion by Leveraging Edge Generation (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)] [[github](https://github.com/xiaogangw/VE-PCN)]
+19. (MSN) Morphing and Sampling Network for Dense Point Cloud Completion (AAAI20) [[paper](https://cseweb.ucsd.edu//~mil070/projects/AAAI2020/paper.pdf)] [[code](https://github.com/Colin97/MSN-Point-Cloud-Completion.git)]
+20. Voxel-based Network for Shape Completion by Leveraging Edge Generation (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Voxel-Based_Network_for_Shape_Completion_by_Leveraging_Edge_Generation_ICCV_2021_paper.pdf)] [[code](https://github.com/xiaogangw/VE-PCN)]
 21. Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS21) [[paper](https://arxiv.org/pdf/2012.04718.pdf)] [(github)[https://github.com/canonical-capsules/canonical-capsules]]
-22. CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating (AAAI21) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[github](https://github.com/SymenYang/CPCGAN.git)]
+22. CPCGAN: A Controllable 3D Point Cloud Generative Adversarial Network with Semantic Label Generating (AAAI21) [[paper](https://www.aaai.org/AAAI21Papers/AAAI-4341.YangX.pdf)] [[code](https://github.com/SymenYang/CPCGAN.git)]
 <!-- 第一阶段GAN以随机潜码为输入，生成带有语义标签的稀疏点云，称为结构点云。
 第二阶段GAN以第一阶段的输出作为输入，通过在每个结构点上繁殖一定数量的点来生成完整的点云。结构点的语义标签将被衍生点继承。一些简单的完全连接层和一个自我关注层用于构建生成器。 -->
-23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[github](https://github.com/seowok/TreeGAN)] 
+23. 3D Point Cloud Generative Adversarial Network Based on Tree Structured Graph Convolutions (ICCV19) [[paper](https://arxiv.org/pdf/1905.06292.pdf)] [[code](https://github.com/seowok/TreeGAN)] 
 24. RPG: Learning Recursive Point Cloud Generation 
-25. Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions (ECCV20) [[paper](https://arxiv.org/pdf/2003.13834.pdf)] [[github](https://github.com/matheusgadelha/PointCloudLearningACD)]
-26. Representing Shape Collections With Alignment-Aware Linear Models (3DV2021) [[paper](https://arxiv.org/pdf/2109.01605.pdf)] [[github](https://romainloiseau.github.io/deep-linear-shapes)]
+25. Label-Efficient Learning on Point Clouds using Approximate Convex Decompositions (ECCV20) [[paper](https://arxiv.org/pdf/2003.13834.pdf)] [[code](https://github.com/matheusgadelha/PointCloudLearningACD)]
+26. Representing Shape Collections With Alignment-Aware Linear Models (3DV2021) [[paper](https://arxiv.org/pdf/2109.01605.pdf)] [[code](https://romainloiseau.github.io/deep-linear-shapes)]
 27. Canonical Capsules: Self-Supervised Capsules in Canonical Pose (NeurIPS21) [[paper](https://canonical-capsules.github.io/resources/CanonicalCapsulesNeurIPS2021.pdf)] [[code](https://github.com/canonical-capsules/canonical-capsules)]
-28. Autoregressive 3D Shape Generation via Canonical Mapping [[paper](https://arxiv.org/pdf/2204.01955.pdf)]
+28. Autoregressive 3D Shape Generation via Canonical Mapping (ECCV22) [[paper](https://arxiv.org/pdf/2204.01955.pdf)] [[code](https://github.com/AnjieCheng/CanonicalVAE)]
+29. Learning 3D Dense Correspondence via Canonical Point Autoencoder (NeurIPS21) [[paper](https://arxiv.org/abs/2107.04867)] [[code](https://anjiecheng.github.io/cpae/)]
+30. 
 
 ## Dynamic Point Cloud
 1. FlowNet3D: Learning Scene Flow in 3D Point Clouds  [[paper]()]
 2. MeteorNet: Deep Learning on Dynamic 3D Point Cloud Sequences(ICCV19)  [[paper](https://arxiv.org/abs/1910.09165)]
 3. Occupancy Flow: 4D Reconstruction by Learning Particle Dynamics (ICCV19) [[paper](https://openaccess.thecvf.com/content_ICCV_2019/papers/Niemeyer_Occupancy_Flow_4D_Reconstruction_by_Learning_Particle_Dynamics_ICCV_2019_paper.pdf)]
 4. CaSPR: Learning Canonical Spatiotemporal Point Cloud Representations (NeurIPS20)
-[[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[github](https://github.com/davrempe/caspr)] (_Desc: spacetime continuity; robustness; category-level generalization;  spatiotemporal(ST) changes;_)
+[[paper](https://arxiv.org/pdf/2008.02792.pdf%5C%22)][[code](https://github.com/davrempe/caspr)] (_Desc: spacetime continuity; robustness; category-level generalization;  spatiotemporal(ST) changes;_)
 <!-- First, we explicitly encode time by mapping an input point cloud sequence to a spatiotemporally-canonicalized object space. We then leverage this canonicalization to learn a spatiotemporal latent representation using neural ordinary differential equations and a generative model of dynamically evolving shapes using continuous normalizing flows. -->
 <!-- Yet, important limitations remain in terms of the lack of temporal continuity, robustness, and category-level generalization -->
 
@@ -51,38 +53,43 @@
 
 ## General Method
 1. Flow++: Improving Flow-Based Generative Models with Variational Dequantization and Architecture Design 
- [[Paper](https://github.com/aravindsrinivas/flowpp)][[github](https://github.com/aravindsrinivas/flowpp)] (_Desc: Density?_)
-2. Denoising Diffusion Probabilistic Models (DDPM) [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[github](https://github.com/hojonathanho/diffusion)]
-3. Guided DDPM [[paper](https://arxiv.org/pdf/2102.09672.pdf)] [[github](https://github.com/openai/improved-diffusion)]
-4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[github](https://github.com/facebookresearch/neural_stpp)] <!-- TBC -->
+ [[Paper](https://github.com/aravindsrinivas/flowpp)][[code](https://github.com/aravindsrinivas/flowpp)] (_Desc: Density?_)
+2. Denoising Diffusion Probabilistic Models (DDPM) [[paper](https://arxiv.org/pdf/2006.11239.pdf)] [[code](https://github.com/hojonathanho/diffusion)]
+3. Guided DDPM [[paper](https://arxiv.org/pdf/2102.09672.pdf)] [[code](https://github.com/openai/improved-diffusion)]
+4. Neural Spatio-Temporal Point Processes (ICLR21) [[paper](https://arxiv.org/pdf/2011.04583.pdf)][[code](https://github.com/facebookresearch/neural_stpp)] <!-- TBC -->
 5. PatchVAE: Learning Local Latent Codes for Recognition (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)]
 6. Score-Based Generative Modeling with Critically-Damped Langevin Diffusion [[paper](https://openreview.net/pdf?id=CzceR82CYc)][[review](https://openreview.net/forum?id=CzceR82CYc)]
-7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[github](https://github.com/NVlabs/LSGM)]
+7. Score-based Generative Modeling in Latent Space (NeuralIps21) [[paper](https://arxiv.org/abs/2106.05931)][[code](https://github.com/NVlabs/LSGM)]
 8. Maximum Likelihood Training of Score-Based Diffusion Models (NeurIPS21) [[paper](https://arxiv.org/pdf/2101.09258.pdf)] [[code](https://github.com/yang-song/score_flow)]
 9. A Connection Between Score Matching and Denoising Autoencoders[[paper](http://www.iro.umontreal.ca/~vincentp/Publications/smdae_techreport.pdf)] <!-- 这是一个diffusion用的公式的地方 -->
 10. Label-Efficient Semantic Segmentation with Diffusion Models (ICLR22) [[paper](https://openreview.net/pdf?id=SlxSY2UZQT)] [[review](https://openreview.net/forum?id=SlxSY2UZQT)]
-11. PatchVAE: Learning Local Latent Codes for Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)] [[github](https://github.com/kampta/PatchVAE)]
-12. CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [[paper](https://arxiv.org/pdf/2107.03502.pdf)] [[github](https://github.com/ermongroup/CSDI)]
+11. PatchVAE: Learning Local Latent Codes for Recognition [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Gupta_PatchVAE_Learning_Local_Latent_Codes_for_Recognition_CVPR_2020_paper.pdf)] [[code](https://github.com/kampta/PatchVAE)]
+12. CSDI: Conditional Score-based Diffusion Models for Probabilistic Time Series Imputation [[paper](https://arxiv.org/pdf/2107.03502.pdf)] [[code](https://github.com/ermongroup/CSDI)]
 13. 
 
 ## Mesh Related
 1. Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks (CVPR21) [[homepage](https://paschalidoud.github.io/neural_parts)][[paper](https://arxiv.org/pdf/2103.10429.pdf)]
 2. Point2Mesh: A Self-Prior for Deformable Meshes (SIGGRAPH20) [[paper](https://arxiv.org/pdf/2005.11084.pdf)]
-3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[github](https://github.com/autonomousvision/shape_as_points)]
+3. Shape As Points: A Differentiable Poisson Solver (NeurIPS21)  [[paper](https://github.com/autonomousvision/shape_as_points)] [[code](https://github.com/autonomousvision/shape_as_points)]
 4. DeepMetaHandles: Learning Deformation Meta-Handles of 3D Meshes with Biharmonic Coordinates [[paper](https://arxiv.org/pdf/2102.09105.pdf)] (_Desc:_)
 5. Deep Geometric Prior for Surface Reconstruction (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Williams_Deep_Geometric_Prior_for_Surface_Reconstruction_CVPR_2019_paper.pdf)]
 6. Meshlet Priors for 3D Mesh Reconstruction (CVPR20) [[paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Badki_Meshlet_Priors_for_3D_Mesh_Reconstruction_CVPR_2020_paper.pdf)] [no code]
-7. Local Implicit Grid Representations for 3D Scenes (CVPR20) [[paper](https://arxiv.org/pdf/2003.08981.pdf)] [[github](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)]
-8. Neural Cages for Detail-Preserving 3D Deformations (CVPR20) [[github](https://igl.ethz.ch/projects/neural-cage/06035.pdf)] [[github](https://github.com/yifita/deep_cage)]
+7. Local Implicit Grid Representations for 3D Scenes (CVPR20) [[paper](https://arxiv.org/pdf/2003.08981.pdf)] [[code](https://github.com/tensorflow/graphics/tree/master/tensorflow_graphics/projects/local_implicit_grid)]
+8. Neural Cages for Detail-Preserving 3D Deformations (CVPR20) [[code](https://igl.ethz.ch/projects/neural-cage/06035.pdf)] [[code](https://github.com/yifita/deep_cage)]
 9. Generating 3d faces using convolutional mesh autoencoders (ECCV18) 
 <!-- graph network 3d reconstruction -->
-10. Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels [[paper](https://arxiv.org/pdf/2006.04325.pdf)] [[github](https://zhouyisjtu.github.io/project_vcmeshcnn/code.html)]
+10. Fully Convolutional Mesh Autoencoder using Efficient Spatially Varying Kernels [[paper](https://arxiv.org/pdf/2006.04325.pdf)] [[code](https://zhouyisjtu.github.io/project_vcmeshcnn/code.html)]
 11. 
 
 ## SDF Generation
-1. 3D Shapes Local Geometry Codes Learning with SDF (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Yao_3D_Shapes_Local_Geometry_Codes_Learning_With_SDF_ICCVW_2021_paper.pdf)] [[github]]
-2. Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence (CVPR21) [[paper](https://arxiv.org/pdf/2011.13650.pdf)] [[github](https://github.com/microsoft/DIF-Net/tree/37cdee4aee0fbdb9f84b8063632e073b707ab595)]
-3. Learning Implicit Fields for Generative Shape Modeling (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Implicit_Fields_for_Generative_Shape_Modeling_CVPR_2019_paper.pdf)] [[]]
+1. 3D Shapes Local Geometry Codes Learning with SDF (ICCV21) [[paper](https://openaccess.thecvf.com/content/ICCV2021W/DLGC/papers/Yao_3D_Shapes_Local_Geometry_Codes_Learning_With_SDF_ICCVW_2021_paper.pdf)] [[code]]
+2. Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence (CVPR21) [[paper](https://arxiv.org/pdf/2011.13650.pdf)] [[code](https://github.com/microsoft/DIF-Net/tree/37cdee4aee0fbdb9f84b8063632e073b707ab595)]
+3. (IMGAN) Learning Implicit Fields for Generative Shape Modeling (CVPR19) [[paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Learning_Implicit_Fields_for_Generative_Shape_Modeling_CVPR_2019_paper.pdf)] [[code](https://github.com/czq142857/implicit-decoder)]
+4. (Implici-Grid) 3D Shape Generation with Grid-based Implicit Functions (CVPR21)
+ [[paper](https://arxiv.org/pdf/2107.10607.pdf)]
+5. (ShapeGAN) Adversarial Generation of Continuous Implicit Shape Representations (Eurographics20) [[paper](https://diglib.eg.org/bitstream/handle/10.2312/egs20201013/041-044.pdf)] [[code](https://github.com/marian42/shapegan)]
+6. Learning Part Generation and Assembly for Structure-aware Shape Synthesis (AAAI20) [[paper](https://arxiv.org/pdf/1906.06693.pdf)]
+7. DECOR-GAN: 3D Shape Detailization by Conditional Refinement (CVPR21) [[paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_DECOR-GAN_3D_Shape_Detailization_by_Conditional_Refinement_CVPR_2021_paper.pdf)] [[code](https://github.com/czq142857/DECOR-GAN)]
 
 
 
